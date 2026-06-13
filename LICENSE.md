@@ -30,9 +30,9 @@ are the exclusive property of **Tawananyasha Nzombe**.
 
 ## Contact
 
-For licensing inquiries or permissions: contact@inkrealm.com
+For licensing inquiries or permissions: contact: tawanametatronnzombe@gmail.com
 
-For copyright violations or takedown notices: legal@inkrealm.com
+For copyright violations or takedown notices: tawanametatronnzombe@gmail.com
 
 ---
 
