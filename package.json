@@ -1,0 +1,32 @@
+{
+  "name": "inkrealm",
+  "version": "1.0.0",
+  "description": "InkRealm - Interactive book platform with original novels",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "echo 'Build complete'",
+    "start": "node server.js",
+    "test": "echo 'Testing...'"
+  },
+  "keywords": [
+    "books",
+    "novels",
+    "reading",
+    "library",
+    "interactive"
+  ],
+  "author": "Tawananyasha Nzombe",
+  "license": "PROPRIETARY",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
